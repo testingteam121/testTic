@@ -1,0 +1,14 @@
+{
+"companyName": "ATG",
+"productName": "Tic Tac Toe",
+"dataUrl": "TicTacToe_v1.9.data.unityweb",
+"wasmCodeUrl": "TicTacToe_v1.9.wasm.code.unityweb",
+"wasmFrameworkUrl": "TicTacToe_v1.9.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "TicTacToe_v1.9.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
